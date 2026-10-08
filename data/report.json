@@ -1,0 +1,15 @@
+{
+    "total_karvands": 2,
+    "total_skills": 5,
+    "average_skill_score": 71.6,
+    "cities": [
+        "Tehran",
+        "Yazd"
+    ],
+    "unique_skills": [
+        "python",
+        "c#",
+        "git",
+        "Cpp"
+    ]
+}

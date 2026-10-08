@@ -32,28 +32,6 @@
             ]
         },
         {
-            "id": 2,
-            "full_name": "Maryam Fazeli",
-            "email": "m.fazeli@gmail.com",
-            "city": "Mashhad",
-            "education": {
-                "degree": "MS",
-                "field": "mechanical engineering"
-            },
-            "skills": [
-                {
-                    "name": "python",
-                    "level": "mid",
-                    "score": 50
-                },
-                {
-                    "name": "sql",
-                    "level": "mid",
-                    "score": 55
-                }
-            ]
-        },
-        {
             "id": 3,
             "full_name": "Sara Izadi",
             "email": "S.isadi@yagoo.com",
