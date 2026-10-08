@@ -303,7 +303,7 @@ def lookup_by_id(store):
         print("Karvand with this ID was not found.")
     else:
         display_member(member)
-
+ 
 
 # ======================== 6. searching by skill ========================
 
