@@ -1,0 +1,79 @@
+{
+    "bootcamp": {
+        "title": "Karvand Python",
+        "year": 2026
+    },
+    "karvands": [
+        {
+            "id": 1,
+            "full_name": "Ali Ahmadi",
+            "email": "ali.ahmadi@gmail.com",
+            "city": "Tehran",
+            "education": {
+                "degree": "BS",
+                "field": "computer engineering"
+            },
+            "skills": [
+                {
+                    "name": "python",
+                    "level": "high",
+                    "score": 90
+                },
+                {
+                    "name": "c#",
+                    "level": "pro",
+                    "score": 80
+                },
+                {
+                    "name": "git",
+                    "level": "pro",
+                    "score": 85
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "full_name": "Maryam Fazeli",
+            "email": "m.fazeli@gmail.com",
+            "city": "Mashhad",
+            "education": {
+                "degree": "MS",
+                "field": "mechanical engineering"
+            },
+            "skills": [
+                {
+                    "name": "python",
+                    "level": "mid",
+                    "score": 50
+                },
+                {
+                    "name": "sql",
+                    "level": "mid",
+                    "score": 55
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "full_name": "Sara Izadi",
+            "email": "S.isadi@yagoo.com",
+            "city": "Yazd",
+            "education": {
+                "degree": "BS",
+                "field": "electrical enginnering"
+            },
+            "skills": [
+                {
+                    "name": "python",
+                    "level": "mid",
+                    "score": 70
+                },
+                {
+                    "name": "Cpp",
+                    "level": "low",
+                    "score": 33
+                }
+            ]
+        }
+    ]
+}
